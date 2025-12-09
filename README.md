@@ -16,10 +16,10 @@ styles.css
 script.js  
 
 ### 🚀 Live Demo
-(Your GitHub Pages link after deploying)
+([Your GitHub Pages link after deploying](https://Shubham-coder-a.github.io/CodeAlpha_Calculator/))
 
 ### 📸 Screenshots
-(Add your screenshot here)
+(![Add your screenshot here](Screenshot_Calculator.png))
 
 ### 👨‍💻 Intern: Shubham Raju Nagpure  
 Student ID: CA/DE1/7143  
